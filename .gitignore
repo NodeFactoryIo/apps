@@ -2,6 +2,8 @@ build/
 coverage/
 node_modules/
 tmp/
+yalc/
+packages/apps/yalc
 .DS_Store
 .env.local
 .env.development.local
